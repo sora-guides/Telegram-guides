@@ -10,3 +10,6 @@
 
 Содержание:
 * Функция main и роутеры
+
+
+![alt text](https://i1.sndcdn.com/artworks-yJ9JI0XMaHY5d0cF-11hiCw-t500x500.jpg)
